@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\Day-6\Assignment11\Assignment11\bin\Debug\Assignment11.exe.config
+C:\Users\alish\Desktop\Mphasis\Day-6\Assignment11\Assignment11\bin\Debug\Assignment11.exe
+C:\Users\alish\Desktop\Mphasis\Day-6\Assignment11\Assignment11\bin\Debug\Assignment11.pdb
+C:\Users\alish\Desktop\Mphasis\Day-6\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Day-6\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Day-6\Assignment11\Assignment11\obj\Debug\Assignment11.exe
+C:\Users\alish\Desktop\Mphasis\Day-6\Assignment11\Assignment11\obj\Debug\Assignment11.pdb
